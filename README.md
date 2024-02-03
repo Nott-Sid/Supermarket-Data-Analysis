@@ -31,6 +31,9 @@ Any successful business endeavor starts with sales marketing, which expertly com
 
 1. Accoriding to my report, I analyze that **March** has the maximum number of Sales & orders.
 
-![alt text]()
+
+
+
+
 
 
