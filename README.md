@@ -25,3 +25,12 @@ Any successful business endeavor starts with sales marketing, which expertly com
 5. Relation between age and gender based on numbers of orders.
 6. which channel is contributing to maximum sales?
 7. Highest selling category?
+
+
+# After the report was analyzed, here are the sales report results.
+
+1. Accoriding to my report, I analyze that **March** has the maximum number of Sales & orders.
+
+![alt text]()
+
+
