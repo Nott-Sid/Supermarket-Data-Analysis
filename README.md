@@ -1,4 +1,4 @@
-## Supermarket-Data-Analysis-2022
+<img width="429" alt="Screenshot 2024-02-03 at 3 42 38 PM" src="https://github.com/Nott-Sid/Supermarket-Data-Analysis/assets/157887085/c643ae2b-3191-49df-a325-66c15d442f8a">## Supermarket-Data-Analysis-2022
 
 Hi, I am Prasant. This is my brief data analysis of the supermarket 2022 dataset using Excel.
 
@@ -30,7 +30,11 @@ Any successful business endeavor starts with sales marketing, which expertly com
 # After the report was analyzed, here are the sales report results.
 
 1. Accoriding to my report, I analyze that **March** has the maximum number of Sales & orders.
-![image]()
+<img width="429" alt="Screenshot 2024-02-03 at 3 42 38 PM" src="https://github.com/Nott-Sid/Supermarket-Data-Analysis/assets/157887085/309ce062-24c6-4985-8e6c-81ae84b3faac">
+
+
+
+
 
 
 
